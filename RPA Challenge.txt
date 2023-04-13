@@ -1,0 +1,13 @@
+Project 2 : 
+
+
+ Open RPA Challange website https://rpachallenge.com/
+ 
+ click start 
+ Enter the following info n cells
+ 
+ first name / last name ....etc
+ 
+ click submit 
+ 
+ repeate the steps until the word congratulations appear.
